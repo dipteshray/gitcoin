@@ -1,24 +1,29 @@
 {
-  "lastUpdated": "2026-10-07T00:00:56.811Z",
+  "lastUpdated": "2026-10-08T00:00:56.607Z",
   "stats": {
     "users": {
-      "count": 21588766,
-      "change": -2.2
+      "count": 21985261,
+      "change": -2.1
     },
     "revenue": {
-      "amount": 8135245,
-      "change": 3.7
+      "amount": 8273096,
+      "change": 1.4
     },
     "projects": {
       "count": 439,
-      "change": 1.5
+      "change": -0.8
     },
     "tasks": {
-      "count": 5977,
-      "change": 1.6
+      "count": 6006,
+      "change": -3.3
     }
   },
   "activities": [
+    {
+      "type": "payment",
+      "title": "Project milestone reached",
+      "timestamp": "2026-10-08T00:00:56.607Z"
+    },
     {
       "type": "payment",
       "title": "Project created",
@@ -38,48 +43,39 @@
       "type": "alert",
       "title": "New user registered",
       "timestamp": "2026-10-04T00:00:22.717Z"
-    },
-    {
-      "type": "message",
-      "title": "New message",
-      "timestamp": "2026-10-03T00:00:06.861Z"
     }
   ],
   "weeklyActivity": [
     {
       "day": "Mon",
-      "value": 29
+      "value": 23
     },
     {
       "day": "Tue",
-      "value": 14
+      "value": 21
     },
     {
       "day": "Wed",
-      "value": 36
+      "value": 27
     },
     {
       "day": "Thu",
-      "value": 18
+      "value": 10
     },
     {
       "day": "Fri",
-      "value": 32
+      "value": 40
     },
     {
       "day": "Sat",
-      "value": 15
+      "value": 13
     },
     {
       "day": "Sun",
-      "value": 10
+      "value": 16
     }
   ],
   "performanceMetrics": [
-    {
-      "date": "2024-06-08",
-      "value": 47
-    },
     {
       "date": "2024-06-09",
       "value": 26
@@ -103,6 +99,10 @@
     {
       "date": "2024-06-14",
       "value": 18
+    },
+    {
+      "date": "2024-06-15",
+      "value": 42
     }
   ]
 }
